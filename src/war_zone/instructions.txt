@@ -1,0 +1,24 @@
+Welcome to warzone game
+
+Instructions:
+
+
+
+Controls:
+
+
+left Key: Rotate Left
+
+Right Key: Rotate Right
+
+Up Key: Move Forward 
+
+Down Key: Move Backward
+
+Q Key: Quit Game
+
+P Key: Pause Game
+
+C Key: Continue Playing
+
+S Key: Start Game 
